@@ -6,7 +6,7 @@ convert OTF (OpenType Font) and TTF (TrueType Font) file formats.
 How to use it:
 
     $ pip install otf2ttf
-    $ otf2ttf MyFont.ttf
+    $ otf2ttf MyFont.otf
 
 
 ## Background
